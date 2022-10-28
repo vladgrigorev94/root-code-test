@@ -95,7 +95,7 @@ export default {
 
 .board__col {
   width: 200px;
-  height: inherit;
+  height: fit-content;
   border: 2px solid black;
   padding-right: 2px;
 }
